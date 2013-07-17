@@ -1,19 +1,17 @@
 body {
-    background-color: #666;    
+    background-color: #333;    
 }
 .welcome {
     font-size: 2em;
-    width: 320px;
-    height: 100px;
+    width: 639px;
     -webkit-box-shadow: 0 0 5px #CCCCCC;
     -moz-box-shadow: 0 0 5px #CCCCCC;
     box-shadow: 0 0 5px #CCCCCC;
     background-color: #EAEAEA;
     margin: 50%;
-    margin-top: 50%;
+    margin-top: 50px;
     position: absolute;
-    top: -50px;
-    left: -160px;
+    left: -320px;
     text-align: center;
     line-height: 100px;
 }
